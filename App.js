@@ -8,7 +8,7 @@ export default function App() {
       <CartaoPerfil
         nome="Mateus Redivo"
         profissao="Professor"
-        cidade="São Paulo, SP"
+        cidade="Campinas, SP"
         email="mateus.redivo@email.com"
       />
     </View>
