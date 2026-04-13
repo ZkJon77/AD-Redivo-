@@ -1,1 +1,2 @@
-# AD App3
+# AD Desenvolvimento
+Jonatan e Thiago
